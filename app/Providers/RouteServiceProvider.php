@@ -17,7 +17,7 @@ class RouteServiceProvider extends ServiceProvider
      *
      * @var string
      */
-    public const HOME = '/home';
+    public const HOME = '/';
 
     // TODO 需要搞清楚
     protected $namespace = 'App\\Http\\Controllers';
