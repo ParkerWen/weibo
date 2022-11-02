@@ -10882,3 +10882,9 @@ footer img.brand-icon {
   width: 17px;
   height: 17px;
 }
+
+/* Status */
+.status-delete-btn {
+  width: -moz-max-content;
+  width: max-content;
+}
